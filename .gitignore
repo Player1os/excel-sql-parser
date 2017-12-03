@@ -1,3 +1,6 @@
 # Temporary office files.
 **/*.laccdb
 **/~$*
+
+# Generated readme file.
+Manual.pdf

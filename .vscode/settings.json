@@ -1,0 +1,10 @@
+{
+		"markdown-pdf.convertOnSave": true,
+		"markdown-pdf.styles": [
+			"C:\\Users\\osama.hassanein\\.vscode\\markdown-pdf.css"
+		],
+		"markdown-pdf.convertOnSaveExclude": [
+			"README.md"
+		],
+		"markdown-pdf.outputDirectory": "C:\\Projects\\excel-sql-parser\\"
+}
