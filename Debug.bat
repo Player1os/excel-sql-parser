@@ -1,5 +1,7 @@
 @ECHO OFF
 
-SET APP_IS_DEBUG_MODE=TRUE
+:: Set the project password.
+SET APP_DEBUG_PASSWORD=tele$SQLParser
 
+:: Run the main project workbook.
 CALL "%~dp0SQLParser.xlsm"
