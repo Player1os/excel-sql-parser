@@ -6,5 +6,5 @@
 		"markdown-pdf.convertOnSaveExclude": [
 			"README.md"
 		],
-		"markdown-pdf.outputDirectory": "C:\\Projects\\excel-sql-parser\\"
+		"markdown-pdf.outputDirectory": "C:\\Projects\\Telekom\\excel-sql-parser\\"
 }

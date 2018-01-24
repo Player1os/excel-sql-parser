@@ -43,6 +43,8 @@ WHERE
 ;
 ```
 
+<div style="page-break-before: always"></div>
+
 Tento dotaz ukazuje, že je možne sa odkazovať na viacero tabuliek naraz a pracovať s ich obsahom.
 
 ```sql
@@ -57,9 +59,9 @@ WHERE
 ;
 ```
 
-## Umiestnanie výsledku
+## Umiestnenie výsledku
 
-Na výsledok ľubovoľného SQL dotazu sa môžeme pozerať taktiež ako na tabuľku, ktorú vieme zobraziť v Exceli do obdĺžnikového poľa buniek. V našom makre je potrebné pred vykonaním dotazu zvoliť bunku, ktorá bude tvoriť ľavý horný okraj tohto poľa. Je potrebné zvoliť túto bunku tak, aby sme mali dostatok miesta pre výsledok dotazu smerom naľavo a dole od nej.
+Na výsledok ľubovoľného SQL dotazu sa môžeme pozerať taktiež ako na tabuľku, ktorú vieme zobraziť v Exceli do obdĺžnikového poľa buniek. V našom makre je potrebné pred vykonaním dotazu zvoliť bunku, ktorá bude tvoriť ľavý horný okraj tohto poľa. Je potrebné zvoliť túto bunku tak, aby sme mali dostatok miesta pre výsledok dotazu smerom napravo a dole od nej.
  
 # Postup na vykonanie SQL dotazu
 
