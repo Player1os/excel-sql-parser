@@ -1,6 +1,11 @@
 # Temporary office files.
-**/*.laccdb
 **/~$*
 
-# Generated readme file.
+# Configuration file.
+Config.xlsx
+
+# Error log file.
+Error.log
+
+# Generated documentation.
 Manual.pdf
